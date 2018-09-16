@@ -1,0 +1,10 @@
+com/tcr/core/dto/SkillDto.class
+com/tcr/core/model/Skill.class
+com/tcr/core/model/User.class
+com/tcr/core/model/Users.class
+rc/domain/Hotel.class
+com/tcr/core/repository/UserRepository.class
+com/tcr/core/dto/SkillsDto.class
+com/tcr/core/dto/UsersDto.class
+com/tcr/core/repository/SkillRepository.class
+com/tcr/core/dto/UserDto.class
